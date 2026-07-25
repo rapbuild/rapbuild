@@ -1,202 +1,172 @@
-<div align="center">
-
-# Hi there, I'm Rapi Hanapi 👋
-
-### Aspiring Software Engineer | Backend Developer
-
-<p>
-I'm currently learning Software Engineering from scratch while documenting my journey publicly on GitHub.
-My goal is to become a professional Backend Engineer and Freelancer.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Rapi%20Hanapi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<img src="YOUR_BANNER_URL_HERE" width="100%" />
 
-</div>
+<h1 align="center">
+  Hi 👋, I'm Rafi
+</h1>
 
----
+<h3 align="center">
+  Aspiring Software Engineer 🚀
+</h3>
 
-# 🚀 About Me
+<p align="center">
+  Building projects, learning software engineering,
+  and improving my problem solving skills every day.
+</p>
 
-- 🎓 Informatics Student
-- 💻 Learning Software Engineering from scratch
-- 📚 Currently studying JavaScript & Node.js
-- 🐧 Linux Enthusiast
-- 🌱 Building projects every week
-- 🎯 Goal: Become a Backend Engineer & Freelancer
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-Soon...
-
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
 ---
 
-### Backend
+## 🧑‍💻 About Me
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+```yaml
+name: Rapi Hanapi
 
-Soon...
+role:
+  Software Engineering Student
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+currently_learning:
+  - JavaScript
+  - Git & GitHub
+  - Linux
+  - Backend Development
+  - System Design
 
----
+goal:
+  Become a Professional Software Engineer
 
-### Database
+focus:
+  Building real-world projects
+```
 
-Soon...
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-
----
-
-### Tools
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-
-![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-# 📈 GitHub Stats
+## 🚀 Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rapbuild&show_icons=true&theme=github_dark)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,linux,vscode,docker,mysql&perline=10"/>
+
+</p>
+
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=rapbuild&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapbuild&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 
 ---
 
 # 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=rapbuild&theme=github-dark)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rapbuild&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 
 ---
 
-# 📊 Most Used Languages
+# 📈 Contribution Graph
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapbuild&layout=compact&theme=github_dark)
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rapbuild&theme=tokyo-night&hide_border=true"/>
 
-# 📉 Contribution Graph
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rapbuild&theme=github-dark)
 
 ---
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/rapbuild/rapbuild/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rapbuild/rapbuild/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
 
 ---
 
-# 🏔 Contribution 3D
+# 🏆 GitHub Trophy
 
-![Profile 3D](https://raw.githubusercontent.com/rapbuild/rapbuild/main/profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=rapbuild&theme=tokyonight&no-frame=true&row=1"/>
 
-# 📚 Learning Roadmap
+</p>
 
-## ✅ Linux
-
-- File System
-- Terminal
-- Permissions
-- Shell Navigation
 
 ---
 
-## ✅ Git
+# 📌 Featured Projects
 
-- Repository
-- Branch
-- Commit
-- Merge
-- Push
-- Pull
+<p align="center">
 
----
+<a href="https://github.com/rapbuild">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rapbuild&repo=Journey&theme=tokyonight"/>
+</a>
 
-## 🚧 JavaScript
+</p>
 
-- Variables
-- Data Types
-- Operators
-- Functions
-- Objects
-- Arrays
-- Loops
-- Async
 
 ---
 
-## ⏳ Node.js
+# 📫 Connect With Me
 
-Coming Soon...
+<p align="center">
 
----
+<a href="https://github.com/rapbuild">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
 
-## ⏳ Express.js
+</p>
 
-Coming Soon...
-
----
-
-## ⏳ PostgreSQL
-
-Coming Soon...
 
 ---
 
-## ⏳ Docker
+# 👀 Profile Views
 
-Coming Soon...
+<p align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=rapbuild&label=Profile%20Views&color=blue&style=flat"/>
 
-# 📂 Featured Projects
+</p>
 
-### 🚀 Journey
-
-Learning software engineering from scratch.
-
-➡️ Documenting every day of my learning process.
 
 ---
 
-# 🎯 2026 Goals
+## 🌱 My Developer Journey
 
-- Learn JavaScript deeply
-- Learn Node.js
-- Learn Express
-- Master Git & GitHub
-- Learn PostgreSQL
-- Learn Docker
-- Build REST APIs
-- Deploy Full Stack Projects
-- Get my first freelance client
+```text
+2026
+ ├── Learning Software Engineering
+ ├── Building Personal Projects
+ ├── Improving Git & Linux Skills
+ ├── Exploring Backend Development
+ └── Becoming a Better Engineer
+```
 
----
-
-# 📫 Contact
-
-- GitHub : https://github.com/rapbuild
 
 ---
 
-<div align="center">
+<p align="center">
 
-### Thanks for visiting my profile ❤️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
 
-</div>
+</p>
