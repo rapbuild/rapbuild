@@ -22,12 +22,6 @@ Software Engineering student who enjoys building web applications and continuous
 - Learning system design
 - Improving problem-solving skills
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rapbuild&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapbuild&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ## Contribution Graph
 
@@ -43,6 +37,3 @@ Software Engineering student who enjoys building web applications and continuous
   </a>
 </p>
 
----
-
-> *"Keep learning. Keep building. Keep improving."*
