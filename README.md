@@ -1,117 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=150&section=header"/>
+# Hi, I'm Rafi Ahnaf Hanafi
+
+Software Engineering student who enjoys building web applications and continuously learning modern technologies.
+
+## About Me
+
+- 🎓 Software Engineering Student
+- 💻 Currently learning Full Stack Development
+- 🌱 Exploring Backend Development, DevOps, and Cloud
+- 🚀 Goal: Become a Professional Software Engineer
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mysql,mongodb,git,github,docker,linux,vscode&perline=8" />
 </p>
 
+## Current Focus
 
-<h3 align="center">
-  Aspiring Software Engineer 🚀
-</h3>
+- Building real-world projects
+- Writing clean and maintainable code
+- Learning system design
+- Improving problem-solving skills
 
-<p align="center">
-  Building projects, learning software engineering,
-  and improving my problem solving skills every day.
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rapbuild&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapbuild&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
+## Contribution Graph
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rapbuild&theme=github-compact&hide_border=true" />
+</p>
+
+## Connect
+
+<p>
+  <a href="https://github.com/rapbuild">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Rafi Ahnaf Hanafi
-
-role:
-  Software Engineering Student
-
-currently_learning:
-  - JavaScript
-  - Git & GitHub
-  - Linux
-  - Backend Development
-  - System Design
-
-goal:
-  Become a Professional Software Engineer
-
-focus:
-  Building real-world projects
-```
-
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,linux,vscode,docker,mysql&perline=10"/>
-
-</p>
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rapbuild&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rapbuild&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rapbuild/rapbuild/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/rapbuild">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-
----
-
-## 🌱 My Developer Journey
-
-```text
-2026
- ├── Learning Software Engineering
- ├── Building Personal Projects
- ├── Improving Git & Linux Skills
- ├── Exploring Backend Development
- └── Becoming a Better Engineer
-```
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
-
-</p>
+> *"Keep learning. Keep building. Keep improving."*
