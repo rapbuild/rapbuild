@@ -22,13 +22,6 @@ Software Engineering student who enjoys building web applications and continuous
 - Learning system design
 - Improving problem-solving skills
 
-
-## Contribution Graph
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rapbuild&theme=github-compact&hide_border=true" />
-</p>
-
 ## Connect
 
 <p>
